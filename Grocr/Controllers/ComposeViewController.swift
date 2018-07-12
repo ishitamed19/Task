@@ -1,9 +1,9 @@
 //
 //  ComposeViewController.swift
-//  Grocr
+
 //
 //  Created by Ishita Mediratta on 07/07/18.
-//  Copyright © 2018 Razeware LLC. All rights reserved.
+
 //
 
 import UIKit
