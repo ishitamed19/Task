@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 22313d7f50d0fcb5bf596903a126ae5a2aa21453
 
 import Foundation
 import Firebase

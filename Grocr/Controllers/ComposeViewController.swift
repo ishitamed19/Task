@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+//
+//  ComposeViewController.swift
+
+//
+//  Created by Ishita Mediratta on 07/07/18.
+
+//
+>>>>>>> 22313d7f50d0fcb5bf596903a126ae5a2aa21453
 
 import UIKit
 
