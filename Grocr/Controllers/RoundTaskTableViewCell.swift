@@ -1,10 +1,4 @@
-//
-//  RoundTaskTableViewCell.swift
-//  Grocr
-//
-//  Created by Ishita Mediratta on 09/07/18.
-//  Copyright © 2018 Razeware LLC. All rights reserved.
-//
+
 
 import UIKit
 
